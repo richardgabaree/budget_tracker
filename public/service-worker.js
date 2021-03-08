@@ -3,9 +3,8 @@ const FILES_TO_CACHE = [
     "/index.html",
     "/favicon.ico",
     "/style.css",
-     "/icons/icon-144x144.png",
-    "/icons/icon-192x192.png", 
-    "/icons/icon-512x512.png"
+    "/public/icons/icon-192x192.png", 
+    "public/icons/icon-512x512.png"
 ];
 
 const CACHE_NAME = "static-cache-v2";
